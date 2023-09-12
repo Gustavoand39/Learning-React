@@ -34,7 +34,7 @@ git clone
 cd <nombre-del-proyecto>
 ```
 
-* Luego, instala las dependencias:
+* Instala las dependencias:
 
 ```bash
 npm install
@@ -45,3 +45,7 @@ npm install
 ```bash
 npm start
 ```
+
+## Notas
+
+Los proyectos de este repositorio fueron creados con [Create React App], una herramienta que permite crear aplicaciones de React con un solo comando. Por lo que deberás tener instalado **[Node.js]** y **[npm]** para poder ejecutar los proyectos.
