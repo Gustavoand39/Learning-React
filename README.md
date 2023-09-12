@@ -19,3 +19,29 @@ El proyecto de la calculadora ayudará a afianzar la comprensión sobre cómo ma
 ### 4. Lista de Tareas (To-Do)
 
 El proyecto de la Lista de Tareas es un ejercicio clásico en el desarrollo web. Los usuarios podrán agregar, marcar como completadas y eliminar tareas.
+
+## Instalación y ejecución
+
+* Para ejecutar cualquiera de los proyectos, primero debes clonar el repositorio:
+
+```bash
+git clone
+```
+
+* Luego, abrir la carpeta del proyecto que deseas ejecutar:
+
+```bash
+cd <nombre-del-proyecto>
+```
+
+* Luego, instala las dependencias:
+
+```bash
+npm install
+```
+
+* Finalmente, ejecuta el proyecto:
+
+```bash
+npm start
+```
